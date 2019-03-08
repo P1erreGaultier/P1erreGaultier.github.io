@@ -14,3 +14,5 @@ E-mail: pit.gaultier@free.fr / pgaultier@nantes.sii.fr
 Téléphone : 0632186960
 
 Adresse : 22 rue du Danube 44800 St Herblain
+
+[GitHub](https://p1erregaultier.github.io/P1erreGaultier.github.io/about)
