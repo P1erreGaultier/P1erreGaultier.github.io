@@ -29,7 +29,7 @@
     La démo : [https://github.com/sebastienmoreno/k3s-demo](https://github.com/sebastienmoreno/k3s-demo)
 <br/>
 - Comment j'ai fini par déployer à 2h du matin une application sur AWS pour piloter des voitures électriques avec un vélo d'appartement.
-    - REX sur un projet téléthon.
+    - REX sur un projet téléthon, conclusion : "lancez vous, et peut être qu'un jour vous finirez en conférence au Devfest!"
 
 #### Mardi 22 Octobre
 
@@ -37,7 +37,7 @@
     - Conférence sur un CI Cloud native, assez compliqué à appréhender, je n'ai pas été super convaincu.
  <br/>   
 - Cloud ROCKS my SI
-    - REX de Spheir sur le rebuild de leur logiciel de gestion interne avec GCP, j'ai aimé la simplicité de l'architecture mise en place, et l'accent sur la réfutabilité de la chose.
+    - REX de Sfeir sur le rebuild de leur logiciel de gestion interne avec GCP, j'ai aimé la simplicité de l'architecture mise en place, et l'accent sur la réutilisabilité de la chose.
     Je ne maitrise plus vraiment GCP, mais ça m'a donné envie de m'y remettre.
  <br/>   
 - Knative: A Kubernetes Framework to manage Serverless Workloads
@@ -73,10 +73,6 @@
 
 ### A creuser
 
-- Google Cloud Platform
-    - J'ai eu l'occasion de toucher à GCP il y a quelques années, la conférence de Spheir m'a donné envie de me remettre dedans.
-    [https://cloud.google.com/gcp/getting-started/](https://cloud.google.com/gcp/getting-started/)
-<br/>
 - K3S
     - La démo du Quickie sur K3S m'a vraiment convaincu, à tester
     [https://github.com/sebastienmoreno/k3s-demo](https://github.com/sebastienmoreno/k3s-demo)
@@ -84,7 +80,10 @@
 - Quarkus
     - Le framework à l'air très prometteur, à tester également
     [https://github.com/loicmathieu/bookmarkit](https://github.com/loicmathieu/bookmarkit)
-
+- Google Cloud Platform
+    - J'ai eu l'occasion de toucher à GCP il y a quelques années, la conférence de Spheir m'a donné envie de me remettre dedans.
+    [https://cloud.google.com/gcp/getting-started/](https://cloud.google.com/gcp/getting-started/)
+<br/>
 
 A l'année prochaine !
 
